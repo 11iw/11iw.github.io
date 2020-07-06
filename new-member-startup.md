@@ -9,7 +9,7 @@ description: >-
 
 ## What is Discord?
 
-{% embed url="https://www.youtube.com/watch?v=sDoCmDUpGbY" %}
+https://www.youtube.com/watch?v=sDoCmDUpGbY
 
 ## The Categories
 
